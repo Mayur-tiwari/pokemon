@@ -1,0 +1,15 @@
+
+.flex1{
+    display: flex;
+}
+
+.flex2{
+    display: flex;
+    gap: 50px;
+    margin-left: 700px;
+    justify-content: center;
+    align-items: center;
+}
+.pokeimg{
+    margin-left: 100px;
+}

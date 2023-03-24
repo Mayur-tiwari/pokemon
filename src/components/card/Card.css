@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.card1{
+
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+   
+
+}
+.imag-div{
+    border: 1px solid black;
+    padding: 10px;
+    height: 300px ;
+    width: 350px;
+
+
+
+}
+.h2{
+    margin-left: 90px;
+}
+.img{
+    height: 150px;
+    margin-left: 70px;
+    
+}
